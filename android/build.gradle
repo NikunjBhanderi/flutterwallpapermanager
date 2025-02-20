@@ -23,6 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 30
+    namespace "com.pk.wallpapermanager.flutter_wallpaper_manager"
 
     defaultConfig {
         minSdkVersion 16
